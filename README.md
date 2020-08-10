@@ -7,3 +7,7 @@
   
   - 什么是快速幂？
   https://blog.csdn.net/qq_19782019/article/details/85621386
+  
+  ## Templates:
+  - BFS:
+  
