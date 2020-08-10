@@ -10,5 +10,5 @@
   
   ## Templates:
   - BFS:
-  [bfs basic template](bfs基本模版.txt)
+  [bfs basic template](/bfs基本模版.txt)
   
