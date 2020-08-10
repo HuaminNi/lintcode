@@ -1,0 +1,27 @@
+BFS template(以lintcode 677 大岛的数量为例):
+
+main:
+   for 所有的点
+      if 这个点没有被访问过&&当前的点为1；
+        size = bfs这个点
+        if size >=k;
+          大岛 += 1
+   return 大岛数量
+
+
+BFS
+queue
+visited
+# hashmap
+# 二维数组
+
+size = 0
+while  queue:
+      当前点 = pop队列
+      size += 1
+      while 四个方向
+          判断下一个点是否满足条件
+              加入队列
+              加入visited
+
+return size
