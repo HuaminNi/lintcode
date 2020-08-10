@@ -9,6 +9,6 @@
   https://blog.csdn.net/qq_19782019/article/details/85621386
   
   ## Templates:
-  - BFS:
-  [bfs basic template](./bfs基本模版.txt)
+  
+  [bfs basic template](Documentation/bfs.txt)
   
